@@ -1,0 +1,18 @@
+---
+title: Latest News from ROC
+layout: post
+---
+
+h3. Billable Mileage
+
+*"Billable Mileage":http://www.billablemileage.com* is the latest app from ROC Solutions Inc.
+
+h3. Other Apps 
+
+
+*"ROC Memory 2":http://itunes.apple.com/us/app/roc-memory-2/id448550843?mt=8* is a memory game fun for adults and challengin for kids.
+
+*"Pocket Tuner":http://itunes.apple.com/us/app/pocket-tuner/id469596544?mt=8* is a simple guitar tuner app, which allows you to tune your guitar when a tuner is not available.
+
+<hr />
+As always, "suggestions for projects are welcome":http://rebase.github.com/howto.html! If you've sent me suggestions chances are you need to fill out your README more, or you're queued up for a future article. For the next edition I'd love to focus on neat open source desktop apps, so if you know of any feel free to send them along.
